@@ -106,14 +106,9 @@ git push origin feature/your-feature-name
 This project is licensed under the MIT License.
 
 ✉️ Contact
-Developer: Vickey Yadav
+Developer: Harsh Bhardwaj
 
-📧 Email: vickeyyadav0088@gmail.com
+📧 Email: hbhardwaj283@gmail.com
 
 
-yaml
-Copy
-Edit
 
----
-# excel
